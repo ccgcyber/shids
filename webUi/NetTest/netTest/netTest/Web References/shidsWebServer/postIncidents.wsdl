@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="urn:server" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://schemas.xmlsoap.org/wsdl/" targetNamespace="urn:server" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="urn:server">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/wsdl/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ReportIncidentRequest">
+    <wsdl:part name="timeStamp" type="xsd:string" />
+    <wsdl:part name="sIp" type="xsd:string" />
+    <wsdl:part name="type" type="xsd:string" />
+    <wsdl:part name="desc" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="ReportIncidentResponse">
+    <wsdl:part name="return" type="xsd:boolean" />
+  </wsdl:message>
+  <wsdl:portType name="ReportIncidentPortType">
+    <wsdl:operation name="ReportIncident">
+      <wsdl:input message="tns:ReportIncidentRequest" />
+      <wsdl:output message="tns:ReportIncidentResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ReportIncidentBinding" type="tns:ReportIncidentPortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="ReportIncident">
+      <soap:operation soapAction="http://localhost/postIncidents.ws.php/ReportIncident" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ReportIncident">
+    <wsdl:port name="ReportIncidentPort" binding="tns:ReportIncidentBinding">
+      <soap:address location="http://localhost:5678/postIncidents.ws.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

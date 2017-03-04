@@ -1,0 +1,6 @@
+G:\Developments\s-hids\project\webUi\NetTest\netTest\netTest\bin\Debug\netTest.exe.config
+G:\Developments\s-hids\project\webUi\NetTest\netTest\netTest\bin\Debug\netTest.exe
+G:\Developments\s-hids\project\webUi\NetTest\netTest\netTest\bin\Debug\netTest.pdb
+G:\Developments\s-hids\project\webUi\NetTest\netTest\netTest\obj\Debug\ResolveAssemblyReference.cache
+G:\Developments\s-hids\project\webUi\NetTest\netTest\netTest\obj\Debug\netTest.exe
+G:\Developments\s-hids\project\webUi\NetTest\netTest\netTest\obj\Debug\netTest.pdb

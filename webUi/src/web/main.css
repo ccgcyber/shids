@@ -1,0 +1,184 @@
+/* 
+        Blue Dream
+        Written by Teylor Feliz  http://www.admixweb.com
+*/
+
+body{
+    font-family: verdana, arial, helvetica, sans-serif;
+    background: url('css/flick/images/ui-bg_flat_0_eeeeee_40x100.png');
+}
+table { font-size: 12px;
+        width: 100%;      
+}
+h1{
+    padding: 4px;
+}
+caption { border:1px solid #5C443A;
+          color:#5C443A;
+          font-weight:bold;
+          letter-spacing:20px;
+          padding:6px 4px 8px 0px;
+          text-align:center;
+          text-transform:uppercase;
+}
+td, th { color:#363636;
+         padding:.4em;
+}
+tr { border:1px dotted gray;
+}
+thead th, tfoot th { color:#FFFFFF;
+                     padding:3px 10px 3px 10px;
+                     text-align:left;
+                     text-transform:uppercase;
+}
+tbody td a { text-decoration:none;
+}
+tbody td a:visited { color:gray;
+                     text-decoration:line-through;
+}
+/*tbody td a:hover { text-decoration:underline;
+}*/
+tbody th a { color:#363636;
+             font-weight:normal;
+             text-decoration:none;
+}
+/*tbody th a:hover { color:#363636;
+}*/
+tbody td+td+td+td a { background-position:left center;
+                      background-repeat:no-repeat;
+                      color:#03476F;
+                      padding-left:15px;
+}
+tbody td+td+td+td a:visited { background-position:left center;
+                              background-repeat:no-repeat;
+}
+tbody th, tbody td { text-align:left;
+                     vertical-align:top;
+}
+tfoot td { background:#5C443A;
+           color:#FFFFFF;
+           padding-top:3px;
+}
+.odd { background:#fff;
+}
+/*tbody tr:hover { background:#99BCBF;
+                 border:1px solid #03476F;
+                 color:#000000;
+}
+*/
+
+iframe{
+    width: 100%;
+    height: 800px;
+    border: none;
+}
+
+h1{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.tableRecords table {
+    border-collapse: collapse;
+    border: 1px solid #03476F;
+    font-size: 11px;
+    color: #363636;
+    background: #92C428;
+}
+.tableRecords caption {
+    text-align: center;
+    font-style: bold;
+    background: transparent;
+    padding:6px 4px 8px 0px;
+    color: #03476F;
+    text-transform: uppercase;
+}
+.tableRecords td, th {
+    border: 1px dotted #03476F;
+    padding: .4em;
+    color: #363636;
+}
+
+.tableRecords thead th, tfoot th {
+    font-weight: bold;
+    font-size: 11px;
+    border: 1px solid #03476F;;
+    text-align: left;
+    background: #4591AD;
+    color: #FFFFFF;
+    padding-top:3px;
+}
+.tableRecords thead td{
+    font-weight: bold;
+    font-size: 12px;
+    border: 1px solid #03476F;;
+    text-align: left;
+    background: #4591AD;
+    color: #FFFFFF;
+    padding-top:3px;
+}
+.tableRecords tbody td a {
+    background: transparent;
+    text-decoration: none;
+    font-weight: bold;
+    color: #363636;
+}
+.tableRecords tbody td a:hover {
+    background: #C2F64D;
+    color: #363636;
+}
+.tableRecords tbody th a {
+    font-size: 11px;
+    background: transparent;
+    text-decoration: none;
+    font-weight:normal;
+    color: #363636;
+}
+/*.tableRecords tbody th a:hover {
+    background: transparent;
+    color: #363636;
+}*/
+.tableRecords tbody th, tbody td {
+    vertical-align: top;
+    text-align: left;
+}
+.tableRecords tfoot td {
+    border: 1px solid #03476F;
+    background: #4591AD;
+    padding-top:3px;
+    color: #FFFFFF;
+}
+.tableRecords .odd {
+    background: #AEE239;
+}
+/*.tableRecords tbody tr:hover {
+    background: #FFD800;
+    border: 1px solid #03476F;
+    color: #FFFFFF;
+}*/
+.tableRecords tbody tr:hover th,
+.tableRecords tbody tr.odd:hover th {
+    background: #FFD800;
+    color: #FFFFFF;
+}
+
+.regModification{
+    background: #1BA5E0;
+}
+.fileModification{
+    background: #E0B21B;
+}
+.status_new{
+background:#33FF66;
+}
+.status_process{
+    background:#F5B800;
+}
+.status_sentresult{
+    background: #33CCFF;
+}
+
+.status_error{
+    background: #FF0000;
+}
