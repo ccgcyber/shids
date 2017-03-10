@@ -1,0 +1,1519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This file is generated for HIVE : HKEY_LOCAL_MACHINE-->
+<keySet>
+  <subKey keyName="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run">
+    <valueSet keyName="RUWAN123" Value="abc C:\WINDOWS\proxy.vbs" />
+    <valueSet keyName="Client Access PC5250 Sound" Value="&quot;C:\Program Files\IBM\Client Access\Emulator\pcssnd.exe&quot;" />
+    <valueSet keyName="456789" Value="abc C:\WINDOWS\proxy.vbs" />
+    <valueSet keyName="123" Value="wscript.exe C:\WINDOWS\proxy.vbs" />
+    <valueSet keyName="visualv" Value="visualv C:\WINDOWS\proxy.vbs" />
+    <valueSet keyName="HotKeysCmds" Value="C:\WINDOWS\system32\hkcmd.exe" />
+    <valueSet keyName="ProxySettings" Value="wscript.exe C:\WINDOWS\proxy.vbs" />
+    <valueSet keyName="ProxySettingsABC" Value="wscript.exe C:\WINDOWS\proxy.vbs" />
+    <valueSet keyName="SuperGradePrinterMenu" Value="C:\Documents and Settings\All Users\Desktop\supergradePrinters.exe" />
+    <valueSet keyName="RUWAN" Value="abc C:\WINDOWS\proxy.vbs" />
+    <valueSet keyName="Persistence" Value="C:\WINDOWS\system32\igfxpers.exe" />
+    <valueSet keyName="PWRISOVM.EXE" Value="C:\Program Files\PowerISO\PWRISOVM.EXE" />
+    <valueSet keyName="Client Access Help Update" Value="&quot;C:\Program Files\IBM\Client Access\cwbinhlp.exe&quot;" />
+    <valueSet keyName="SunJavaUpdateSched" Value="&quot;C:\Program Files\Common Files\Java\Java Update\jusched.exe&quot;" />
+    <valueSet keyName="Client Access Service" Value="&quot;C:\Program Files\IBM\Client Access\cwbsvstr.exe&quot;" />
+    <valueSet keyName="Client Access Express Welcome" Value="&quot;C:\Program Files\IBM\Client Access\cwbwlwiz.exe&quot;" />
+    <valueSet keyName="12323" Value="wscript.exe C:\WINDOWS\proxy.vbs" />
+    <valueSet keyName="Adobe Reader Speed Launcher" Value="&quot;C:\Program Files\Adobe\Reader 9.0\Reader\Reader_sl.exe&quot;" />
+    <valueSet keyName="IgfxTray" Value="C:\WINDOWS\system32\igfxtray.exe" />
+    <valueSet keyName="Client Access Check Version" Value="&quot;C:\Program Files\IBM\Client Access\cwbckver.exe&quot; LOGIN" />
+    <valueSet keyName="asd" Value="wscript.exe C:\WINDOWS\proxy.vbs" />
+    <valueSet keyName="456" Value="wscript.exe C:\WINDOWS\proxy.vbs" />
+    <valueSet keyName="cAudioFilterAgent" Value="C:\Program Files\Conexant\cAudioFilterAgent\CAudioFilterAgentXP.exe" />
+    <valueSet keyName="DWQueuedReporting" Value="&quot;C:\PROGRA~1\COMMON~1\MICROS~1\DW\dwtrig20.exe&quot; -t" />
+  </subKey>
+  <subKey keyName="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\SharedDlls">
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP20.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP34.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Template\MFC.RCT" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npstmu950.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\DEVENV.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVGAL.PKG" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.Build.Engine.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\Mac\ROMANIAN.TXT" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\REGSVR32.EXE" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\Main\Certificates\Core33.rxc" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\PkgProj\CAB.PKP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\Microsoft.CSharp.targets" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\dxva2.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2SDPC.TLB" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\WINDIFF.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.XML.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_state.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSCOMM32.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.WorkflowServices.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Templates\Database Project Items\New Query.dtq" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\TCPROPS.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Security\Wizard\App_LocalResources\wizardAddUser.ascx.resx" Value="1" />
+    <valueSet keyName="C:\Program Files\IBM\Lotus\Notes\nlsxbe.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\NewFileItems\New HTML Page.htm" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CONFIG\web_mediumtrust.config" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP19.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncsacd.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Fonts\a794.thai" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\PxWave.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\olivepr4.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\SureThing Shared\xpaspi.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\SYSINFO.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\GRPHFLT\CGMIMP32.FLT" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbs_iehost.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\APPWZENU.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\MSBuild\Microsoft.Build.Commontypes.xsd" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\VsPrint7.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\VB5DB.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfcm100u.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP31.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nsspaysec101sc.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msscript.ocx" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Visual C++ 2.vsk" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\DEVPRJ.PKG" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\MAPICOMP.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\u2lcom.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Web Designer Tools\Office12\MSOSTYLE.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\VBA\MSO97RT.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\win\CP1253.TXT" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP13.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\win\CP1252.TXT" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\DLLShared\SAR_HTML_10\activationEMC9_cz.xml" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\FEACP.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2QD.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP7.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Nss4778.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msxml3r.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Repostry\infoMdl\UML.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP36.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\MmcAspExt.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Net.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\CUSTMWZ.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MFCCLWZ.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP26.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP4.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="2" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\Mac\CYRILLIC.TXT" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\Main\Roxio_Central36.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Runtime.Serialization.Formatters.Soap.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\DEPENDS.CNT" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Web Designer Tools\Office12\SAEXT.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\MSBuild\Microsoft.Build.Core.xsd" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP24.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP4.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="2" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP1.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="10" />
+    <valueSet keyName="C:\Program Files\Roxio\PrintAddon\ENU\prcd_hp.db" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NTSK21.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP5.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSDATLST.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Redist\VJREG.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\IDLE.HLP" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP40.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CONFIG\web_hightrust.config.default" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\Dhtmled.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\fusion.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nxsETS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\TOOLTIPS.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.VisualBasic.Vsa.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\VAVSA.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\RegSvcs.exe" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP22.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSSTDFMT.DLL" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Triedit\triedit.dll" Value="10001" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Drawing.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Drawing.tlb" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2FW.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSINET.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Proof\MSSP232.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nps4610.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSMAPI32.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\resources\1033\VALECUI.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\_NetworkingPerfCounters.h" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\WRMUTIL.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSRDC20.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\PROGDLG.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\regtlibv12.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nss7270.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\CTIP.DLL" Value="1" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\de-ch" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsa721.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.Vsa.Vb.CodeDOMProcessor.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\SWDiscoveryServices.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\digital6390.ini" Value="1" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\fi" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\UninstallSqlStateTemplate.sql" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\COMCTL32.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NpsAdd2000.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\crtslv.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\InstallProfile.SQL" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_HP.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsETM325.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\DLLShared\HomeUtils10.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MCI32.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft SQL Server\80\Tools\Binn\sqlvdi.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nps4604.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\magtekmicrwedge.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsmtmi.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\SYSINFO.OCX" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSDATGRD.DEP" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP5.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsefr430.dll" Value="1" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\us" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP1.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="10" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NTFSVC.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Documentation\WinForm-XFS User's Guide.pdf" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\2002 Engineers Edition\SWNetPerfMon.Template" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc100.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\SPYXX.CNT" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Templates\Database Project Items\New Trigger Script.SQL" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\PrintAddon\ENU\prcdprint.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\HttpX.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\NewFileItems\Text File.txt" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nps2380.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\DLLShared\SAR_HTML_10\images\spacer.gif" Value="1" />
+    <valueSet keyName="C:\Program Files\CE Remote Tools\5.01\target\wce500\sh4\ccfwcli.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\Threed20.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\digitalben.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\INCLUDE\SQL.H" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\Vsflex7.ocx" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP23.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MDT2FW95.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Repostry\REPODBC.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\DEVEDIT.PKG" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\App_Code\WebAdminPage.cs" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\SCP32.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbs_wminet_utils.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\resources\1033\VASEIUI.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\sqlctr90.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\1033\vbc7ui.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\Main\HTML\ENU\welcome_err_not_connected.htm" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nssm905.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft SQL Server\80\Tools\binn\SQLDMO80.cnt" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP31.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\cscompmgd.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio 9.0\Common7\Tools\VDT\1033\vdt80pui.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\Mac\CROATIAN.TXT" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MACROCPP.DAT" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\WINDIFF.HLP" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP28.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ntsPaySec101.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_Cisco.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.Vsa.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\COMCT232.DEP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\mscoree.tlb" Value="4096" />
+    <valueSet keyName="C:\WINDOWS\system32\MSFLXGRD.DEP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorld.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\PkgProj\SETUP.ICO" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\RedistList\FrameworkList.xml" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\olepro32.dll" Value="4" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_Interfaces.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\HWDLL.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Web Designer Tools\Office12\GREN50.OLB" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.AddIn.Contract.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\csc.exe.config" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP38.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\iProfessionalLibrary.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\designer\MSCDRUN.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\ADDINWZ.AWX" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbs_system.data.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\BIND.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\Pegrp32a.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\imagXpr7.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\DBLIST32.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncsnmd.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mgmtapi.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\system32\VSVPort7.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\win\CP1254.TXT" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\iclfdp20.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ndepd.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NssK23_500m.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NTSMTMX.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\sqlncli.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\_dataperfcounters_shared12_neutral.h" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorwks.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\WRMQUEUE.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NssRS8x.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\dfshim.dll" Value="2" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP18.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Help\MSDEV.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\vbc.exe.config" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NpsAdd6080.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP19.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\Microsoft.JScript.tlb" Value="4096" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\attgis.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NksIntPin232.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NWSQUERY.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msvcp71.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP35.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\XPThemes.manifest" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbscmp20_mscorlib.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP20.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP35.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\MSDEV.TIP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\WebAdminHelp.aspx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSWINSCK.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\seacrd1000el.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\MAKEHM.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\TLBINF32.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Symantec\SYMEVENT.SYS" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msxml6.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\DLLShared\SAR_HTML_10\activationEMC9_hu.xml" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NssK33.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsEFP4600.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\PrintAddon\ENU\llscdprint.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NTS7270.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSCHRT20.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\u2ddisk.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\SPYXX.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Adobe.url" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\CLIPASST.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\Backgrnd\Stretchable\All\adsn001-light.f.Designers Choice 001.mvb" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP35.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.EnterpriseServices.tlb" Value="4096" />
+    <valueSet keyName="C:\WINDOWS\system32\S32EVNT1.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\resources\1033\VIDDBUI.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\PkgProj\ZIP.PKP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\AppConfig\App_LocalResources\SmtpSettings.aspx.resx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\atl100.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npscrdn6.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CONFIG\DefaultWsdlHelpGenerator.aspx" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\2002 Engineers Edition\Installs\UNWISE.EXE" Value="2" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\u2lexch.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\PresentationHost.exe" Value="2" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\is" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVXPGL.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\iPlotLibrary.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\SWNetIO.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSCHRT20.DEP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\1033\Vsavb7rtUI.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\u2lfinra.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\hhctrl.ocx" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole DB\MSJT4JLT.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\resources\1033\GENPRJUI.DLL" Value="1" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\uk" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\DLLShared\SAR_HTML_10\activationEMC9_he.xml" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_Arlan.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\JAUTOEXP.INI" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\scrrun.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_perf.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsadd.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\System.Windows.Forms.tlb" Value="4096" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Help\EXTHELP.CNT" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Security\security.aspx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSXFS.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\History.htm" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\AspNetMMCExt.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Providers\ProviderList.ascx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\SYSINFO.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\ibm9055001.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsdigiben.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Web.RegularExpressions.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncsascom.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\vrccust.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\rgb9rast_2.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\VALEC.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\olivepr2dsp.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\TSTCON32.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_perf.h" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DLGBAR.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\olivepr4sr.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\PROGDLG.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\sstabs2.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\OWNDRAW.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\CE Remote Tools\5.01\target\wce500\mipsIV_fp\ccfwcli.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\PresentationCFFRasterizerNative_v0300.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nps325pd.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ntelcash.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NVDMD.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\MRBC.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\VSSCC.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\icmp.dll" Value="2" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP36.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP4.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\CE Remote Tools\5.01\target\wce500\armV4i\ccfwcli.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NpsIbm4770.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\evr.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\SWEMailMessage.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbs_mscorsec.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\Microsoft.Build.Utilities.v3.5.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscortim.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\TEXTEXT.TLB" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVAUT1.PKG" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft_VsaVb.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\SHED.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Windows.Forms.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npse675.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Fiserv\Alliant\Common\SQLExec.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\UNDNAME.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\Engine\msvcr71.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\drivers\cdralw2k.sys" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nssict4q0_170.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncsdb1053.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\pesgo32a.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\CE Remote Tools\5.01\target\wce500\mipsII_fp\ccfwcli.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Wizards98\DBWIZ1.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\corperfmonsymbols.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NTF3.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\STATBAR.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole Db\Resources\1046\MSOLAP80.RLL" Value="10000" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio 9.0\Common7\Tools\VDT\vdt80p.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\regwiz.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\LogParts.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\Mac\TURKISH.TXT" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\SWEmailNotify.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\DOBJVIEW.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\resources\1033\VSSLNUI.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP7.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2DFX.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\DEVSHL.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Help\VBCMN98.CHI" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\DBLIST32.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Templates\Database Project Items\NewDataItems.vsdir" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.tlb" Value="2" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP31.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\Adobe\symbol.txt" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\sscdlg.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CONFIG\web_minimaltrust.config.default" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\oc30.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mscories.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbs_microsoft.jscript.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\BLDWIZMG.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\DEPENDS.HLP" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP32.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\SOS.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\drvins64.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\epsontmu375.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Documentation\XFSConnect Setup &amp; Configuration Guide.pdf" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_Subnets.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msxml3.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\system32\actskin4.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSDBRPTR.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole Db\Resources\1053\MSOLAP80.RLL" Value="10000" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\InstallSqlState.sql" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.configuration.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\WebResources\Export.Left.gif" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npscbm231.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\SQLLE.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\PerfCounter.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_regsql.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsadd3160.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\SYSINFO.DEP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSCOMCTL.OCX" Value="3" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nsiud.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsadd2040_01.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP13.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\SPDEMOS.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole Db\Resources\1041\MSOLAP80.RLL" Value="10000" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Wizards98\resources\1033\VIWZ1UI.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\TRACER.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\Main\Splash.hmp" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\Microsoft.TeamFoundation.Common.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\WhoisX.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\CLIPASST.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\WinNT\Tools\PVIEW.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio 9.0\Common7\Tools\VDT\vdt80.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\_Networkingperfcounters.ini" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\NETFXSBS10.exe" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\normalization.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\SSTree.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.VisualBasic.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\VSFlex8.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\Gracenote\CddbCMSig_1_3.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Wizards98\resources\1033\VIDWOJUI.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\Main\HTML\ENU\err_not_connected.htm" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP15.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Fonts\VeraMoIt.ttf" Value="3" />
+    <valueSet keyName="C:\WINDOWS\system32\psapi.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NpsCrdn4565.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVDTG.PKG" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\dwwin.dwr" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP22.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ngen.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\SQL\EN\SqlPersistenceProviderLogic.sql" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\ssscrl30.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\SQLServerManager.msc" Value="2" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP19.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\MSBuild\Microsoft\Windows Workflow Foundation\v3.5\Workflow.Targets" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\VJEXT.TLB" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nps375p.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\RACREG32.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP15.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\VSS\VSSCLNT.SRG" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\HTMED.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.Vsa.tlb" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Utility Projects\Utility Project.gpz" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\peverify.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\pxinsi64.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbs_system.configuration.install.dll" Value="2" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP8.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NssMT211232.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npswin.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nssk21m.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\IEHost.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_regbrowsers.exe" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP18.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CORPerfMonSymbols.h" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP3.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\system32\MSADODC.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\winprntr.ini" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\pxinsa64.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.EnterpriseServices.Thunk.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSEnv\PublicAssemblies\VSLangProj2.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorpe.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.Vsa.Vb.CodeDOMProcessor.tlb" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Management.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\Microsoft.Build.Engine.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2FREF.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP7.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP34.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\DEPENDS.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\SPLITTER.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Templates\Database Project Items\New SQL Script.SQL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVRES.PKG" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP24.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Wizards98\VIDWOJ.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\netfxsbs12.hkf" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole Db\Resources\1042\MSOLAP80.RLL" Value="10000" />
+    <valueSet keyName="C:\WINDOWS\system32\ICMPv50.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\crxf_pdf.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP3.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\VALMP.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\transactpj1500.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_UDP.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\lexmark2490.ini" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP38.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\inf\pxhelp20.inf" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\Lang\stax.enu.dstx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\Gracenote\CDDBControlRoxio2.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\u2l2000.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\magtekminiwedge.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Visual Basic 5 and 6.vsk" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Web.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP2.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="4" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nps5021.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\ERRLOOK.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ilasm.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\TelnetX.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\SPLASH.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\addmaster1000.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Nks4779.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\twnlib4.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\infocardcpl.cpl" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\GUIDGEN.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\mscorlib.tlb" Value="4096" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\GUIDGEN.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\pepco32a.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbs_microsoft.vsa.vb.codedomprocessor.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc100deu.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\SureThing Shared\stllssvr.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\MSBuild\Microsoft.Build.Commontypes.xsd" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\Microsoft.Common.Tasks" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Security\Roles\App_LocalResources\manageSingleRole.aspx.resx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CONFIG\web_mediumtrust.config.default" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\milcore.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Wizards98\DBWIZ1.SRG" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\SWHelpAbout.dll" Value="1" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\it" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\TABCTL32.DEP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\isDigitalLibrary.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\ASP.TLB" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\SWExports.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP42.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP19.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP34.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP2.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="4" />
+    <valueSet keyName="C:\WINDOWS\system32\sqlncli.chm" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\SHED.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nksint190.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Web.Services.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\ibm4770.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\designer\MSHTMPGD.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\CE Remote Tools\5.01\bin\ccfilevw.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\FM20.DLL" Value="2" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP35.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nks7270.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\URLPKR.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\UninstallPersistSqlState.sql" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP26.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\Xfs_supp.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\TSTCON32.CNT" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\PresentationHostProxy.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorrc.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\VSCover90.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2DF.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\MSADOCG.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP23.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\etsmicr.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Database Replication\Resources\1033\REPLRES.rll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP2.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="4" />
+    <valueSet keyName="C:\Program Files\Fiserv\Alliant\Common\Msxfs.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Symantec Shared\sevinst.exe" Value="500" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2SDNB.TLB" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nssk21p.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\PICCLP32.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NssK23_500s.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\VAPDS.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Templates\Database Projects\New Database Project.dbp" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\DLLShared\SAR_HTML_10\v2\ROLLBACK_1\Images\titlebar_right.png" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\devcfg.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\axiohma794.ini" Value="1" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\nl-be" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsmtmx.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nttud.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npspr2e_dsp.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP31.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Fonts\nina.ttf" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscordacwks.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncstcdcoin.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\1033\CvtResUI.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSDBRPT.SRG" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msxml6r.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\INETAWZ.AWX" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\DBGRID32.DEP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msvcp60.dll" Value="3" />
+    <valueSet keyName="C:\WINDOWS\system32\xunzip30.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\olive2845.ini" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc100chs.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbscmp20_mscorwks.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_Routes.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\vbc.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsadd2040_07.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc100ita.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DLGBAR.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msvcrt.dll" Value="4" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\LIB\msxfs.lib" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP41.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\VBA\VBA6\1033\VBE6INTL.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DOCREG.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Configuration.Install.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncurmix.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\LANGEXT.DAT" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.Build.Utilities.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\lexmark2380.ini" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\iStripChartXControl.ocx" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP1.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="10" />
+    <valueSet keyName="C:\WINDOWS\system32\VSPerf90.dll" Value="2" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP42.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncdmd.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\dfdll.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nsspaysec101ms.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\Comdlg32.ocx" Value="5" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Security\Roles\manageSingleRole.aspx" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP28.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\ERRLOOK.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc71u.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP41.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsefp9500.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_filter.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVTOOL.PKG" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsEFP4565.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\COMCT332.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole Db\Resources\1036\MSOLAP80.RLL" Value="10000" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\DAO\DAO2535.TLB" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NKSDP8.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\addmaster6080.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NPSDEMO.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\riched32.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ntshht.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfcm100.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP3.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\MOF\ServiceModel35.mof" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\DFVIEW.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NksSwe113.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsepson.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\win\CP1251.TXT" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Windows.Forms.tlb" Value="2" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\win\CP1250.TXT" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\resources\1033\VSPKGUI.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Include\XFSADMIN.H" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Management.Instrumentation.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\wrmserv.exe" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP3.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\DLLShared\SAR_HTML_10\activationEMC9_el.xml" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\1033\cscompui.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\GRID32.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Web.Extensions.Design.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP41.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP25.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft SQL Server\80\Tools\binn\SQLDMO80.hlp" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\_DataOracleClientPerfCounters_shared12_neutral.ini" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP13.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\COMCT232.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\win\CP1258.TXT" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\SPLASH.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\Adobe\zdingbat.txt" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nps5223.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Sonic Shared\AudioPlayer.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\ctznidp3541.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\VMware\VMware Player\icudt44l.dat" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP31.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\shlwapi.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft SQL Server Compact Edition\v3.5\ReadmeSSCE35_ENU.htm" Value="3" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc100enu.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MFC42D.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\Drivers\SYMEVENT.SYS" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\vmdf3.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\PxMas.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ShFusRes.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole Db\Resources\1031\MSOLAP80.RLL" Value="10000" />
+    <valueSet keyName="C:\WINDOWS\system32\msxml2.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\SWWakeOnLAN.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nps9055.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\DBGRID32.OCX" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP8.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Wizards98\VIWZRT.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\FONTEDIT.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\ODKOB32.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\WRMPROC.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Repostry\REPBRRC.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Data.Linq.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\RC_Autoplay.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\IIEHost.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\imagXR7.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msvcr71.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\DLLShared\rcsl.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc100kor.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.EnterpriseServices.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\mscoree.tlb" Value="4096" />
+    <valueSet keyName="C:\Program Files\Microsoft SDKs\Windows\v6.0A\bin\al.exe.config" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncsadmin.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\VRCHELP.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncamd.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\VSDPL.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\VSSLN.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\VCXX.TIP" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP37.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSADODC.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\GRPHFLT\PNG32.FLT" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSBIND.DLL" Value="2" />
+    <valueSet keyName="C:\WINDOWS\system32\Services.cfg" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\VBA\VBA6\1033\VBCN6.CHM" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Documentation\Viewing Trace Statements.pdf" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\cvtres.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\VADEC.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\RegAsm.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\SHCV.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\App_GlobalResources\AppConfigCommon.resx" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP5.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\MSBuild\Microsoft.Build.Core.xsd" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\tswpfwrp.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\2002 Engineers Edition\NetPerfMon.Views" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nidcd.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\GUTILS.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Web Folders\MSOWS409.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\SHSQL.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\PkgProj\ZIP.ICO" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\DNSv50.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\VSPKG.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\PROPSHT.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\SWSystemTray.ocx" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP37.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\compuprintmdp40bdual.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\MSADOCG.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\App_LocalResources\error.aspx.resx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\VBA\QRYINT32.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CLR.mof" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\System.EnterpriseServices.tlb" Value="4096" />
+    <valueSet keyName="C:\Program Files\Common Files\designer\MSDERUN.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\u2dpost.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP23.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsadd5000.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Repostry\MIGV2.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\ICU\icudt26l.dat" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole Db\Resources\2052\MSOLAP80.RLL" Value="10000" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP38.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\vcomp100.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP32.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsmdp40c_om.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVDBG.PKG" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nks4778.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc100fra.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\Mac\GREEK.TXT" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Web Designer Tools\Office12\1033\QRYINT32.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\resources\1033\VSTEST.SPC" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSOUTL32.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole Db\Resources\1028\MSOLAP80.RLL" Value="10000" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nssseacMSR.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nssict3q5_150.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\PROPSHT.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\MSBuild.rsp" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSDATGRD.OCX" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\infocardapi.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP2.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="4" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\WinNT\SR32TEST.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\u2dmapi.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP24.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NssM201.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\hpr4915.ini" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP35.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Data.DataSetExtensions.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\KILLLEC.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\SPLITTER.HLP" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP8.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\designer\MSCDRUN.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\SELFREG.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Wizards98\SUBWIZ.TLB" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP5.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.DirectoryServices.AccountManagement.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSI Tools\mergemod.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\Gracenote\CddbMusicIDRoxio2.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Windows.Forms.tlb" Value="4096" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncimd.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\MSBuild.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ReportGen.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\banqitmodel1.ini" Value="1" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\pt" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSCOMCT2.OCX" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\shfusion.chm" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2DBNS.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\NewFileItems\newfileitems.vsdir" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\SolarWinds2002.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\magtekmaxiwedge.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Wizards98\VIWZ1.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.ServiceProcess.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncs5175.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\Xfs_conf.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DOCREG.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP34.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Providers\App_LocalResources\providerList.ascx.resx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Data.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\crxf_rtf.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP28.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CONFIG\web_lowtrust.config" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nss950.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\staxApp.xml" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP32.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\VBA\VBA6\1033\FM20.CHM" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSDATREP.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\PkgProj\SETUP.PKP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\Engine\RCEngine.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\CE Remote Tools\5.01\target\wce500\mipsIV\ccfwcli.exe" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP41.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\sysglobl.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\Gracenote\CddbPlaylist2Roxio2.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_TCP.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\crpe32.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncstransact.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MFCANS32.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\vsjitdebugger.exe" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVCLVW.PKG" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\OCC.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\designer\MSADDNDR.TLB" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Fonts\ninab.ttf" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\GRPHFLT\WPGIMP32.FLT" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\Mac\CORPCHAR.TXT" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP5.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\ExportModeller.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\CTIP.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\icardres.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVODL.PKG" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\DLLShared\SAR_HTML_10\activationEMC9_ar.xml" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nssk21s.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msxml4.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npslb15.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP7.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\Main\MainrENU.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\_DataOracleClientPerfCounters_shared12_neutral.h" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\designer\MSHTMPGR.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\System\VI30WRP.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.tlb" Value="4096" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\Microsoft.VisualStudio.WPFFlavor.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\InstallMembership.sql" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\addmaster2040_07.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Templates\Database Project Items\New View Script.SQL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NWSNMGRS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Web Designer Tools\Office12\1033\OFMAIN11.CHM" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio 9.0\Common7\Tools\VDT\1033\vdt80ui.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP37.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP32.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\IBM\Lotus\Notes\msvcr71.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Fiserv Shared\Alliant\Sockcomm.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\DEVTLDC.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Web Folders\MSONSEXT.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MFCATL.NCB" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\comcat.dll" Value="4" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\InstallPersistSqlState.sql" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\VSS\win32\SSEXP.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CustomMarshalers.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Web.tlb" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\LIB\NTWDBLIB.LIB" Value="1" />
+    <valueSet keyName="C:\Program Files\Fiserv\Alliant\Common\BTSecRS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\epsontmu325pd.ini" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\urlmon.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\AEEXPDTR.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\TEXTCONV\WPFT532.CNV" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.ServiceModel.Web.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\cradendp8.ini" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbscmp10.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2GDDR.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\drivers\pxhelp20.sys" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NSSDEMO.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\WIN32.NCB" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\RACMGR32.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\DLLShared\SAR_HTML_10\activationEMC9_ru.xml" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSRDC20.DEP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbs_diasymreader.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Web Designer Tools\Office12\1033\GRLEX.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\CE Remote Tools\5.01\target\wce500\armV4\ccfwcli.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\DLLShared\rsl.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Fonts\VeraMono.ttf" Value="3" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbscmp20_perfcounter.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\cscomp.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\pepso32a.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\VIDDBPKG.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\TEXTCONV\WPFT632.CNV" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nps3541.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP4.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\cradendp7.ini" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP20.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\CE Remote Tools\5.01\target\wce500\mipsII\ccfwcli.exe" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP8.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\1033\alinkui.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP15.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\PrintAddon\ENU\lscdprint.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\VS98\resources\1033\VSHELPUI.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsmtmw.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\GUIDGEN.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncsdemo.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nps2400.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MabryObj.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2DB.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\InstallUtilLib.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP13.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsseac.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\tstsrpi.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\System\FP30WEC.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP42.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\IDLE.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP25.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MUI\0409\mscorees.dll" Value="3" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP20.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\hha.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_wp.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_WinNT.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\mscormmc.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NssIntPin232.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Security\Wizard\wizardAddUser.ascx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\DLLShared\SAR_HTML_10\activationEMC9_pl.xml" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\u25samp1.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\VsPDF.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\regsvcs.exe.config" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP31.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\TABCTL32.OCX" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Templates\Database Project Items\New Stored Procedure Script.SQL" Value="1" />
+    <valueSet keyName="C:\Program Files\VMware\VMware Player\ico\import.ico" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\isAnalogLibrary.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NssMT95.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP13.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\SQLPRXY.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSDATLST.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\unisysefp95.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsHPR4915.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\vxblock.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSInfo\msinfo32.exe" Value="2" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP26.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\aspnet_counters.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP40.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\VCSPAWN.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_isapi.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\TOOLTIPS.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\WinNT\Tools\PSTAT.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\HTMUTIL.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\resources\1033\VSSCCUI.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP34.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\SWIPStack.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Web Folders\PUBPLACE.HTT" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\VAIEC.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\Main\Certificates\Core\License.rtf" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\Mac\ROMAN.TXT" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSRDO20.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\2002 Engineers Edition\NetPerfMon-Elements.cfg" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NWSNMGRC.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Security.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP35.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msxml3a.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\stax.DWR" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\dwmemman.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VCM\VCMCAB.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\App_Data\GroupedProviders.xml" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSFLXGRD.OCX" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\GRPHFLT\GIFIMP32.FLT" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\GRPHFLT\PICTIM32.FLT" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\unisys4565.ini" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\SQLPARSE.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\stdole2.tlb" Value="4" />
+    <valueSet keyName="C:\WINDOWS\system32\MSRDO20.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc42.dll" Value="5" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CONFIG\web.config" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ieexec.exe.config" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\PICCLP32.DEP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\asycfilt.dll" Value="3" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP25.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP20.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\System\FP30TXT.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NksK23_500.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\CUSTMWZ.AWX" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSMAPI32.OCX" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP19.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Gear32sd.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\resources\1033\VAIEAUI.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_regiis.exe" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP19.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\SWAutoCombo20.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Repostry\REPCDLG.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\VAIEA.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP26.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP8.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP7.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP41.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\pego32a.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\CAWUTIL.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CONFIG\web_lowtrust.config.default" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\epsonfx870.ini" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\EventLogMessages.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Drawing.Design.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP23.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\resources\1033\VSIDE.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\SNMPv61.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\CE Remote Tools\5.01\target\wce500\x86\ccfwcli.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc100esn.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\SOCKETS.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Repostry\REPBROWS.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Data.SqlXml.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\Microsoft.Build.Tasks.v3.5.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc100cht.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Aspnet_regsql.exe.config" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\PALETTE.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbs_system.enterpriseservices.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\SharedReg12.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\UninstallPersonalization.sql" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\CAWUTIL.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NKSMTMX.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\sspng.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\ltimg13n.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\installutil.exe.config" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVCPP.PKG" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\designer\MSDE.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\SYSINCL.DAT" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\SWTipBanner.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\CRT.NCB" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\ibm4610.ini" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\1033\vbc7ui.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbs_mscordbi.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Symantec\S32EVNT1.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NTSDP8.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_SystemMIB.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP36.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\OLETOOLS.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\System.tlb" Value="4096" />
+    <valueSet keyName="C:\WINDOWS\system32\Px.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\UninstallRoles.sql" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\csc.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft SQL Server\80\Tools\binn\SQLDMO.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\sssplt30.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsEFP4605.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP36.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP24.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\axiohma721.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nisdemo.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\GUISysLevel.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\resources\1033\VSDPLUI.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nts4604.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2SD.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\AppLaunch.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2GKOR.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP2.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="4" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\OCC.HLP" Value="1" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\jp" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\ROBOEX32.DLL" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\resources\1033\HTMEDUI.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\dhp4711.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npspj1500.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbs_VsaVb7rt.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscoree.tlb" Value="2" />
+    <valueSet keyName="C:\WINDOWS\system32\MSINET.OCX" Value="2" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP25.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\VAESA.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP34.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msvcirt.dll" Value="3" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\fr-be" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncsmdrm.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\COMCT332.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Windows.Presentation.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP40.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\OFFICE12\MSO.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\designer\MSCONDES.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\MFCTLWZ.AWX" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\AUTMGR32.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\VSEXT.OLB" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\Mac\SYMBOL.TXT" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nssGemPlus.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP41.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP38.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\resources\1033\VAIECUI.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npscrdn7.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\VAHTP.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\wrmsrpi3.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\RICHTX32.OCX" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncstcd9.dll" Value="1" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\fr-ch" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\IEExec.exe" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP18.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\OLE DB\MSDAPML.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npspr4r.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\MEDIA.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\pxwma.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP28.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.CSharp.targets" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\sqlnclir.rll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP32.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\banqit4604.ini" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\UninstallSqlState.sql" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft SQL Server\80\Tools\Binn\Resources\1033\SQLDMO.RLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\System\FP30UTL.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVHTMX.PKG" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\Vsflex7L.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\AdoNetDiag.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSDATREP.DEP" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP35.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\icardres.dll.mui" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP40.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\u252000.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSDBRPT.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\ctznidp35xx.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\VIEWS.PRF" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP37.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\vbc.exe" Value="1" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\no" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\Backgrnd\backgrnd.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\Main\HTML\ENU\Audio_TP_disabled.gif" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\diasymreader.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole Db\Resources\1034\MSOLAP80.RLL" Value="10000" />
+    <valueSet keyName="C:\WINDOWS\system32\TelnetX.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\alink.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\FOXTLIB.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\VC\msdia90.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Nts4779.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP24.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP15.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\triedit.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Security\Permissions\managePermissions.aspx" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP28.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\IEExecRemote.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.EnterpriseServices.tlb" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Repostry\MIGV2RC.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\wrmshfil.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\FOXHWND.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\Main\Genre.ini" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscordbc.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\LoGauge.ocx" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP42.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP18.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsK33.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nps4722.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSEnv\PublicAssemblies\envdte.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\UUIDGEN.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msvbvm60.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\system32\msxml4r.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Mdflib1.vmd" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\VBA\MRT7ENU.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nwrmsrpi.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Fiserv\Alliant\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\webengine.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\VsaVb7rt.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\SolarWinds2001.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\oleaut32.dll" Value="4" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\VC\msdia100.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft SQL Server\80\COM\sqlvdi.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\u2ldts.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP7.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\designer\MSADDNDR.DLL" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\craden4565.ini" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\PresentationNative_v0300.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Internet Explorer\MUI\0409\mscorier.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsa794.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSMASK32.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole DB\MSJTOR35.DLL" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorsvc.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MCI32.OCX" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP23.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc71.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP3.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVBIED.PKG" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\shfusion.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Security\Permissions\App_LocalResources\createPermission.aspx.resx" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\2002 Engineers Edition\NetPerfMon.Charts" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\hitachibh10.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\SWTelnet.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\Clireg\CLIREG32.EXE" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP22.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\MAPICOMP.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\vbc.exe.config" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP8.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\IROTVIEW.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Web.Mobile.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nptrd.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\PALETTE.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\WinNT\CL32TEST.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\Gracenote\CDDBUIRoxio2.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.Common.Tasks" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Accessibility.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\MEDIA.HLP" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP25.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\SSTRtl.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\VMDF.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSCOMCT2.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Repostry\REPCDLG.OCX" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\Microsoft.Vsa.tlb" Value="4096" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\win\CP1257.TXT" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\SQLDBREG.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_state_perf.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole Db\Resources\1043\MSOLAP80.RLL" Value="10000" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Utility Projects\Utility.vsdir" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP4.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_JetDirect.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP31.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP18.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\HCW.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\sscsdk80.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP34.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\CORELIST.TXT" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nps35xx.dll" Value="1" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\fr" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.Build.Framework.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP36.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\Microsoft.Vsa.Vb.CodeDOMProcessor.tlb" Value="4096" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\mscormmc.cfg" Value="2" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP4.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\system32\AUTPRX32.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\FM20ENU.DLL" Value="2" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_NetManage.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP1.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\FONTEDIT.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.Build.Tasks.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\VBA\MSQRY32.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\currency.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Symantec\Symantec Endpoint Protection\12.1.2015.2015.105\Bin\webshell.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\VAESI.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\System\FP30WEL.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CasPol.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\PkgProj\CAB.ICO" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP13.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsbh10.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP36.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npind.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\HCRTF.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\WinNT\DDESPY.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_IPX.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP24.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\mscorlib.tlb" Value="4096" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NtsK23_500.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\cradendp6.ini" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP5.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\TOOLS.TIP" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\WebResources\SWExport.css" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Developer Studio 5 and 6.vsk" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\MSBuild.rsp" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Transactions.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\UIAutomationCore.dll" Value="3" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP36.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Wizards98\ISWFRAME.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Xml.Linq.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\RICHTX32.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVBLD.PKG" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\netfxperf.dll" Value="2" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP41.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP40.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\drivers\cdr4_xp.sys" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\SNMPv50.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsolive.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVNCB.PKG" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\System.Drawing.tlb" Value="4096" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Design.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\MSENVP.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\ZOOMIN.EXE" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP37.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nssict3q5_180.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CONFIG\web_hightrust.config" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP42.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\SQL Debugging\SQLDBG.DLL" Value="2" />
+    <valueSet keyName="C:\WINDOWS\system32\cwbaffax.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\keycode.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP28.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Nss4779.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\WhoisX.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Messaging.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP22.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\pxcpyi64.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ISymWrapper.dll" Value="1" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\de" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP37.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\PxAFS.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\DEVENT.PKG" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\GENPROJ.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\HCW.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msvcp100.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.JScript.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\atl.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\COMDLG32.DEP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscordbi.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\VASEI.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\imagX7.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Web Designer Tools\Office12\1033\VBAOF11.CHM" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\Engine\msvcp71.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\pxcpya64.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Repostry\REPRC.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.Build.xsd" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\InstallSqlStateTemplate.sql" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\resources\1033\VAPDSUI.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\HCW.CNT" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Smart Tag\1033\STINTL.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\Microsoft.Build.Framework.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\favorites.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\Gracenote\CddbCleanRoxio2.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2DD.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\2002 Engineers Edition\SWMIBTree20.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Deployment.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP26.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Aspnet.config" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\dv_aspnetmmc.chm" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP1.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="10" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP42.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\VS98\VSHELP.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2GDDO.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Templates\Database Project Items\New Table Script.SQL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\MSBuild.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Data.OracleClient.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\pvtreex.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Web Designer Tools\Office12\USP10.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nssPaySec101.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\VARPC.EXE" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Security\App_LocalResources\setUpAuthentication.aspx.resx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\msvcr100.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\designer\DEEXT.TLB" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WinFxBrowserApplicationTemplateWizard.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP40.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\dfsvc.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\TSTCON32.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\AUTOLAYT.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nssPINTEST.exe" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP25.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npstex3k.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\resources\1033\VAHTPUI.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP32.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\wuweb.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Synchronization Services\ADO.NET\v1.0\ReadMeSyncServices_ENU.htm" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\WMINet_Utils.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP15.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP20.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CONFIG\web_minimaltrust.config" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NtsIntPin232.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CONFIG\Browsers\goAmerica.browser" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_Compaq.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Fiserv\Alliant\Common\SQLExRes.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Nts4778.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WinFxCustomControlTemplateWizard.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.VisualC.Dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Nss4777.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\PkgProj\PkgProj.vsdir" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NVDMSP.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Security\Users\addUser.aspx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\epsontmu375p.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole Db\Resources\1040\MSOLAP80.RLL" Value="10000" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP32.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\CDMSUPPORT.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\CORPerfMonExt.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorjit.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nksint112.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Fiserv Shared\Alliant\ComProxS.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\Microsoft.Vsa.Vb.CodeDOMProcessor.tlb" Value="4096" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Aspnet_perf.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP38.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Runtime.Remoting.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\resources\1033\MDT2FWUI.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mscoree.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\VB98\DATAVIEW.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDIS110.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.DirectoryServices.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Proof\MSSP2_EN.LEX" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Web Designer Tools\Office12\1033\GRINTL32.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Images\requiredBang.gif" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\OFFICE12\1033\ADO210.CHM" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\InstallCommon.sql" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\Backgrnd\LightScribe\Monotone\hps001-light.Acting Up.mvb" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\JAVASIGN.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\MUI\0409\mscorsecr.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc42u.dll" Value="4" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\Gracenote\CddbWOManagerRoxio2.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npspr4sr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\STATBAR.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP18.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Fiserv\Alliant\Common\BTSecure.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorsec.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\SOCKETS.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Drawing.tlb" Value="4096" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\unisys4605.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsicl.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\TEXTCONV\RECOVR32.CNV" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSWINSCK.OCX" Value="2" />
+    <valueSet keyName="C:\WINDOWS\system32\vmnc.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorie.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\u2fcr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\cbm606J.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\POPUP.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nssict3q5_188.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Fonts\VeraMoBI.ttf" Value="3" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\InstallWebEventSqlProvider.sql" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NPSDP8.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.DirectoryServices.Protocols.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\SPYHK55.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2LV.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\MSENV.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\PrintAddon\ENU\prsetup.db" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\Gracenote\CddbFPX1.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\designer\resources\1033\MSDEUI.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\VSFlex8L.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Repostry\MIGREPV2.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Documentation\Nexus CDM Support and Demos User's Guide.pdf" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\VSPrint8.ocx" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP38.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP25.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc100jpn.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\vmodeler\MSVM.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\epsontmu950.ini" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP2.DIR\_ISTMP0.DIR\FileGrp\IdCap\IDMngr.ocx" Value="2" />
+    <valueSet keyName="C:\WINDOWS\system32\msvcr100_clr0400.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Fiserv Shared\Alliant\ISignOn.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSHFLXGD.OCX" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\VSVPort8.ocx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\winfcom.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\POPUP.HLP" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\TLBREF.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nsstex3k.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet.mof" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSCOMM32.DEP" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP22.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\AppConfig\SmtpSettings.aspx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Redist\CLIREG32.EXE" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP15.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\SPYXX.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_Hubs.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Repostry\REPCDRC.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\gacutil.exe.config" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Macros\SAMPLE.DSM" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorsvw.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSMASK32.OCX" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npscbm606.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\icardagt.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\MFCAPWZ.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\Ole Db\Resources\1033\MSOLAP80.RLL" Value="10000" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\VC\msdia80.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\2002 Engineers Edition\SW2NetPerfMon.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ncsglory.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP26.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\Errors.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\Microsoft.Vsa.tlb" Value="4096" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\NSSMTMX.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\snmpapi.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\OWNDRAW.HLP" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\IPBrowser_ARP.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\SWLogo.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Security\Users\App_LocalResources\editUser.aspx.resx" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\IVIEWERS.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\DTE.TLB" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\Mac\ICELAND.TXT" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\WFServicesReg.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v3.5\Microsoft.Build.xsd" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorlib.tlb" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorsn.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\resources\1033\VAESIUI.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\OFFICE12\RICHED20.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Roxio Shared\10.0\Roxio Central36\Main\Skins\RoxioCentral.skn" Value="1" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Web.Extensions.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\designer\MSADDNDR.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\cbm231.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\Mac\UKRAINE.TXT" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\unisys4600.ini" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP38.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\_dataperfcounters_shared12_neutral.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\System\OLE DB\MSDAIPP.DLL" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP37.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\Templates\Database Projects\NewDataProjects.vsdir" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSPDB60.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\sbscmp20_mscorlib.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP28.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP26.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc100rus.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\Microsoft.JScript.tlb" Value="4096" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\VCSPAWN.EXE" Value="1" />
+    <valueSet keyName="C:\Program Files\Business Objects\Common\2.8\bin\u25dts.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\HttpX.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Microsoft.JScript.tlb" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\MSDesigners98\MDT2G.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.COM" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Help\EXTHELP.HLP" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP1.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="10" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\OFFICE12\1033\MSOINTL.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Repostry\INSREPIM.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\MSCOMCTL.DEP" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\ntsdemo.exe" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Wizards98\HOSTWIZ.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nssosk.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\comctl32.ocx" Value="4" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\jsc.exe" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\C1Query8.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\navigationBar.ascx" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\Triedit\dhtmled.ocx" Value="10000" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\sbs_mscorrc.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\nislnk02.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_state_perf.h" Value="1" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_compiler.exe" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP42.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\PswdMngr.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Roxio\Lang\stax.enu.chm" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP3.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SignOnps.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\system32\pxdrv.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP2.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="4" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\OLEVIEW.EXE" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP3.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\IDE\IDE98\resources\1033\VSTEST.PVK" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP15.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\SolarWinds\Common\WebResources\Export.Header.gif" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\npsdhp.dll" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP4.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="2" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\GRPHFLT\EPSIMP32.FLT" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\ibm4712.ini" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\ssa3d30.ocx" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP40.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\TxnPro.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\resources\1033\VAESAUI.DLL" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\epsontmu325d.ini" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP23.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\config\ncr5021.ini" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP1.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\ComProxS.dll" Value="10" />
+    <valueSet keyName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Culture.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mfc100u.dll" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\XfsTrace.log" Value="1" />
+    <valueSet keyName="C:\Program Files\Microsoft Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\resources\1033\VADECUI.DLL" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\mscorier.dll" Value="2" />
+    <valueSet keyName="C:\WINDOWS\Fonts\VeraMoBd.ttf" Value="3" />
+    <valueSet keyName="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.AddIn.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Microsoft Shared\GRPHFLT\JPEGIM32.FLT" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\imagXRA7.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\wrmservps.dll" Value="1" />
+    <valueSet keyName="C:\Program Files\Common Files\Nexus\Config\devices.ini" Value="1" />
+    <valueSet keyName="C:\Program Files\Adobe\Reader 9.0\Resource\TypeSupport\Unicode\Mappings\Mac\CENTEURO.TXT" Value="1" />
+    <valueSet keyName="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ISTMP22.DIR\_ISTMP0.DIR\FileGrp\Fiserv Shared\Alliant\SO_Utils.dll" Value="1" />
+    <valueSet keyName="C:\Documents and Settings\All Users\Application Data\VMware\vnckeymap\es" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\Sslstbar.ocx" Value="1" />
+    <valueSet keyName="C:\WINDOWS\system32\VsStr7.ocx" Value="1" />
+  </subKey>
+</keySet>

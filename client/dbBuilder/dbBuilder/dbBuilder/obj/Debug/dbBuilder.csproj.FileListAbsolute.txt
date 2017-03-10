@@ -1,0 +1,5 @@
+G:\Developments\s-hids\project\client\dbBuilder\dbBuilder\dbBuilder\obj\Debug\ResolveAssemblyReference.cache
+G:\Developments\s-hids\project\client\dbBuilder\dbBuilder\dbBuilder\bin\Debug\dbBuilder.exe
+G:\Developments\s-hids\project\client\dbBuilder\dbBuilder\dbBuilder\bin\Debug\dbBuilder.pdb
+G:\Developments\s-hids\project\client\dbBuilder\dbBuilder\dbBuilder\obj\Debug\dbBuilder.exe
+G:\Developments\s-hids\project\client\dbBuilder\dbBuilder\dbBuilder\obj\Debug\dbBuilder.pdb

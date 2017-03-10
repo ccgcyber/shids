@@ -1,0 +1,765 @@
+﻿Installing assembly 'G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Creating EventLog source S HIDS Client Service in log Application...
+Rolling back assembly 'G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Restoring event log to previous state for source S HIDS Client Service.
+Installing assembly 'G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service 0...
+Service S HIDS Client Service 0 has been successfully installed.
+Creating EventLog source S HIDS Client Service 0 in log Application...
+Committing assembly 'G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service 1...
+Service S HIDS Client Service 1 has been successfully installed.
+Creating EventLog source S HIDS Client Service 1 in log Application...
+Committing assembly 'G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Creating EventLog source S HIDS Client Service in log Application...
+Rolling back assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Restoring event log to previous state for source S HIDS Client Service.
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service Application...
+Service Application has been successfully installed.
+Creating EventLog source Application in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service Application...
+Creating EventLog source Application in log Application...
+Rolling back assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Restoring event log to previous state for source Application.
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog
+Installing service S HIDS Client Service...
+Service S HIDS Client Service has been successfully installed.
+Creating EventLog source S HIDS Client Service in log Application...
+Committing assembly 'G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.exe
+   i = 
+   logfile = G:\Developments\s-hids\project\client\shids_client\shids_client\bin\Release\shids_client.InstallLog

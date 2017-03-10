@@ -1,0 +1,5 @@
+G:\Developments\s-hids\project\client\syslogd\syslogd\syslogd\obj\Debug\ResolveAssemblyReference.cache
+G:\Developments\s-hids\project\client\syslogd\syslogd\syslogd\bin\Debug\syslogd.exe
+G:\Developments\s-hids\project\client\syslogd\syslogd\syslogd\bin\Debug\syslogd.pdb
+G:\Developments\s-hids\project\client\syslogd\syslogd\syslogd\obj\Debug\syslogd.exe
+G:\Developments\s-hids\project\client\syslogd\syslogd\syslogd\obj\Debug\syslogd.pdb

@@ -1,0 +1,5 @@
+G:\Developments\s-hids\project\client\builder\buidler\buidler\bin\Release\buidler.exe
+G:\Developments\s-hids\project\client\builder\buidler\buidler\bin\Release\buidler.pdb
+G:\Developments\s-hids\project\client\builder\buidler\buidler\obj\Release\ResolveAssemblyReference.cache
+G:\Developments\s-hids\project\client\builder\buidler\buidler\obj\Release\buidler.exe
+G:\Developments\s-hids\project\client\builder\buidler\buidler\obj\Release\buidler.pdb

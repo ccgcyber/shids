@@ -1,0 +1,46 @@
+===========================
+S-HIDS Syslog Deamon
+===========================
+[ 2013/05/15 17:55:28  ] Started Demon
+-------------------------------------
+Found ->5
+[Sending][172.20.106.220][<116> May 15 17:11:10  172.20.106.103 [Created]C:\WINDOWS\mxo2pwek.vbs[SHA 1=27C8BEB4BDDC68CAB1C2F2736299364FED2C6624]
+]
+[Sending][172.20.106.220][<116> May 15 17:11:10  172.20.106.103 [Key Changed]
+[Hive]: HKEY_LOCAL_MACHINE
+[KeyPath]: SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+[Key Name]:kwtas7ag
+[Value]:wscript.exe C:\WINDOWS\mxo2pwek.vbs[SHA 1=]
+]
+[Sending][172.20.106.220][<116> May 15 17:11:10  172.20.106.103 [Created]C:\WINDOWS\mxo2pwek.vbs[SHA 1=27C8BEB4BDDC68CAB1C2F2736299364FED2C6624]
+]
+[Sending][172.20.106.220][<116> May 15 17:14:18  172.20.106.103 [Key Changed]
+[Hive]: HKEY_LOCAL_MACHINE
+[KeyPath]: SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+[Key Name]:nfuqe1gc
+[Value]:wscript.exe C:\WINDOWS\ilcau6ko.vbs[SHA 1=]
+]
+[Sending][172.20.106.220][<116> May 15 17:14:18  172.20.106.103 [Created]C:\WINDOWS\ilcau6ko.vbs[SHA 1=27C8BEB4BDDC68CAB1C2F2736299364FED2C6624]
+]
+-------------------------------------
+-------------------------------------
+Found ->5
+[Sending][172.20.106.220][<116> May 15 17:11:10  172.20.106.103 [Created]C:\WINDOWS\mxo2pwek.vbs[SHA 1=27C8BEB4BDDC68CAB1C2F2736299364FED2C6624]
+]
+[Sending][172.20.106.220][<116> May 15 17:11:10  172.20.106.103 [Key Changed]
+[Hive]: HKEY_LOCAL_MACHINE
+[KeyPath]: SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+[Key Name]:kwtas7ag
+[Value]:wscript.exe C:\WINDOWS\mxo2pwek.vbs[SHA 1=]
+]
+[Sending][172.20.106.220][<116> May 15 17:11:10  172.20.106.103 [Created]C:\WINDOWS\mxo2pwek.vbs[SHA 1=27C8BEB4BDDC68CAB1C2F2736299364FED2C6624]
+]
+[Sending][172.20.106.220][<116> May 15 17:14:18  172.20.106.103 [Key Changed]
+[Hive]: HKEY_LOCAL_MACHINE
+[KeyPath]: SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+[Key Name]:nfuqe1gc
+[Value]:wscript.exe C:\WINDOWS\ilcau6ko.vbs[SHA 1=]
+]
+[Sending][172.20.106.220][<116> May 15 17:14:18  172.20.106.103 [Created]C:\WINDOWS\ilcau6ko.vbs[SHA 1=27C8BEB4BDDC68CAB1C2F2736299364FED2C6624]
+]
+-------------------------------------

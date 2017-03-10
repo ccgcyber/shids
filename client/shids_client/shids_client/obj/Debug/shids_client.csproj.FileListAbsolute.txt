@@ -1,0 +1,5 @@
+G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Debug\shids_client.exe
+G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\bin\Debug\shids_client.pdb
+G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\obj\Debug\ResolveAssemblyReference.cache
+G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\obj\Debug\shids_client.exe
+G:\Developments\s-hids\client\WindowsService_Src\client\shids_client\shids_client\obj\Debug\shids_client.pdb

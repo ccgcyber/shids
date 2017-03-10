@@ -1,0 +1,8 @@
+G:\Developments\s-hids\project\client\tracker\TrackerService\TrackerService\bin\Debug\TrackerService.exe
+G:\Developments\s-hids\project\client\tracker\TrackerService\TrackerService\bin\Debug\TrackerService.pdb
+G:\Developments\s-hids\project\client\tracker\TrackerService\TrackerService\obj\Debug\ResolveAssemblyReference.cache
+G:\Developments\s-hids\project\client\tracker\TrackerService\TrackerService\obj\Debug\TrackerService.ProjectInstaller.resources
+G:\Developments\s-hids\project\client\tracker\TrackerService\TrackerService\obj\Debug\TrackerService.TrackerService.resources
+G:\Developments\s-hids\project\client\tracker\TrackerService\TrackerService\obj\Debug\TrackerService.csproj.GenerateResource.Cache
+G:\Developments\s-hids\project\client\tracker\TrackerService\TrackerService\obj\Debug\TrackerService.exe
+G:\Developments\s-hids\project\client\tracker\TrackerService\TrackerService\obj\Debug\TrackerService.pdb

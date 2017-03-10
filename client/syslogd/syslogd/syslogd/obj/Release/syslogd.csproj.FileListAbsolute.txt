@@ -1,0 +1,10 @@
+G:\Developments\s-hids\project\client\syslogd\syslogd\syslogd\bin\Release\syslogd.exe
+G:\Developments\s-hids\project\client\syslogd\syslogd\syslogd\bin\Release\syslogd.pdb
+G:\Developments\s-hids\project\client\syslogd\syslogd\syslogd\obj\Release\ResolveAssemblyReference.cache
+G:\Developments\s-hids\project\client\syslogd\syslogd\syslogd\obj\Release\syslogd.exe
+G:\Developments\s-hids\project\client\syslogd\syslogd\syslogd\obj\Release\syslogd.pdb
+C:\Projects\project\client\syslogd\syslogd\syslogd\bin\Release\syslogd.exe
+C:\Projects\project\client\syslogd\syslogd\syslogd\bin\Release\syslogd.pdb
+C:\Projects\project\client\syslogd\syslogd\syslogd\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\project\client\syslogd\syslogd\syslogd\obj\Release\syslogd.exe
+C:\Projects\project\client\syslogd\syslogd\syslogd\obj\Release\syslogd.pdb
